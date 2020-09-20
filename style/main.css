@@ -314,7 +314,7 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     background: #FFFFFF;
-    background: url('https://previews.dropbox.com/p/thumb/AA6M70LqJynWBTEoANZlxdgdQqo08xaVqT54xN2IMUUVT2s-w4S3JHwXlxCjZ6UNGm833Fc-AXDgQjEKHk13El3DKj9cArwqcZczWgSl2TVjScywyifNl5fEcGdOVAtyS7AFL8R-Pq5xhddM0HZMKEeqjEKC7RFZhbI0fb8uPQ3TU4BA9OF0Ah585b7mfiiP3tNuJvBsLMxWk7jDDT_jQXE28RvXHIlxuzw-0Uxcuz7bNJZBPlq-67vz1MIZ2n7TpJd3EPdkMb7kKbgVZ_gYeNNC-MuKUzSF01ga6V_WWgxM-yOOHxDoo5sOULDc4vZujm4iNIJhQYfMYrjgqIar7hV2cCA7rsj2qPwiEHiK66clqw/p.png?fv_content=true&size_mode=5');
+    background: url('./style/2.png');
     background-size: 100%;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
